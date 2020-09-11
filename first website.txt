@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<title>Cooolest website</title>
+<html>
+    <!--Audio-->
+    <audio controls>
+        <source src="highway.mp3" type="audio/ogg">
+        </audio>
+    <!--Audio-->
+
+    <!--Icon-->
+    <link rel="icon" type="image/png" href="noope.png">
+    <!--Icon-->
+   
+    <!--Texts-->
+    <h1 style="color: white; text-align: center;">Very coooool website </h1>
+    <h2 style="color: white;">Welcome to the cooolest website 2020 </h2>
+    <h3 style="color: white; z-index: 1; ">Who am I? I am Markus, creator of this amazing site that took about 100 minutes to make <br> More information about me in "list of things I like webpage" </h3>
+    <!--Texts-->
+       
+    <!--Links-->
+    
+    <h1 class="hohoho"><br><br><br><br>Welcome to Coolest website<br><br><br></h1>
+
+
+    <!--Rickrolled-->
+    <body>
+      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" style="text-decoration: none; border:  2px solid white; width: 300px;">Github page!!</a>
+   <!--Rickrolled-->
+
+      
+
+    <!--Putin walk meme (dead meme)-->
+    <p>
+        <a href="https://www.youtube.com/watch?v=tMINTOSZhDo" style="text-decoration: none; border:  2px solid white; width: 300px;">‎‎‎‎‎‎‎‎‎‎Fanny jokes 2020!!</a>
+     </p>
+
+    <!--Putin walk meme (dead meme)-->
+
+
+    <!--Website 2 I made, you're going to brazil.-->
+     <p>
+     
+        <a href="file:///C:/webbsida/yourinbrazil.html" style="text-decoration: none; border:  2px solid white; width: 300px;">You're going to Brazil!!</a>
+     </p>
+
+    <!--Website 2 I made, you're going to brazil.-->
+
+    <!--Website 3 I made, A list of things I like.-->
+
+     <p>
+     
+        <a href="file:///C:/webbsida/listofthings.html" style="text-decoration: none;border:  2px solid white; width: 300px;"> A list of things I like.</a>
+     </p>
+     <p>
+     
+        <a href="file:///C:/webbsida/listofthings.html" style="text-decoration: none;border:  2px solid white; width: 300px;"> Who am I?</a>
+     </p>
+    <!--Website 3 I made, A list of things I like.-->
+
+    
+
+    <!--Links-->
+
+
+   <!--The cat gif-->
+
+   <p class="fat">
+    <img src="cat.gif"  width="300" height="300" alt="no" >
+   </p>
+</body>
+   <!--The cat gif-->
+   <p class="tom">
+    <img src="cat.gif"  width="300" height="300" alt="ya" >
+   </p>
+   
+
+       
+   <!--Styling-->
+
+    <style>
+.hohoho{
+    font-size: 80px;
+    color: white;
+    z-index: 2;
+    
+    position: fixed;
+    right: 0px; top: -3000px;
+   
+     animation-name: hohoho;
+     animation-duration: 4.5s;
+     animation-iteration-count: 1;
+     animation-direction:normal; 
+
+}
+      
+        
+        div {
+            width: 9999px; height: 2000px;
+            background-color: black;
+            position:fixed;
+            right: 3000px; top: 2000px;
+            animation-name: toot;
+            animation-duration: 6s;
+            animation-iteration-count: 1;
+            animation-direction:normal; 
+            z-index: 1;
+        
+           
+        }
+
+        @keyframes hohoho {
+            0% {left:0px; top: 0px;}
+            25% {left:0px; top: 0px;}
+            100% {left: 0px; top: -4000px;}
+            
+        }
+
+
+        @keyframes toot {
+
+            0% {left:0px; top: 0px;}
+            25% {left:0px; top: 0px;}
+            100% {left: 3000px; top: 0px;}
+            
+        }
+
+        
+
+        
+ 
+
+        .fat {
+            
+            position:absolute; right: 0px; bottom: -100px;
+            z-index: -1;
+        
+        }
+
+        .tom {
+            position:static; right: 0px; bottom: 1000;
+        }
+        
+        body {
+            background-image: url(mountain.jpg);
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: 100% 100%;
+        }
+        h1 {text-align: center}
+        h1 {font-size: 100px;}
+        h1 {font-family: Georgia, 'Times New Roman', Times, serif;}
+        h2 {text-align: center}
+        h2 {font-size: 40px;}
+        h3 {text-align:end}
+        audio{text-align: start;}
+        a {font-size: 60px;}
+        a {text-align: end}
+        a{font-family:'Courier New', Courier, monospace;}
+        a{color: white;}
+        
+
+    </style>
+
+<div></div>
+   <!--Styling-->
+
+
+   
+
+</html>
+
+
